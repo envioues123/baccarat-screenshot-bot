@@ -22,5 +22,8 @@
     "url": "https://github.com/envioues123/baccarat-screenshot-bot/issues"
   },
   "homepage": "https://github.com/envioues123/baccarat-screenshot-bot#readme",
-  "description": ""
+  "description": "",
+  "engines": {
+    "node": "20.x"
+  }
 }
